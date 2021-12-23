@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Liujiawm
+
+[![Github](https://img.shields.io/github/followers/liujiawm?label=Follow&style=social)](https://github.com/liujiawm)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liujiawm&hide=html)
+![liujiawm's github stats](https://github-readme-stats.vercel.app/api?username=liujiawm&show_icons=true&count_private=true&line_height=40)
 
 <!--
 **liujiawm/liujiawm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
